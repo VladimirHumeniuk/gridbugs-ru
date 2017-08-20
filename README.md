@@ -391,6 +391,10 @@ Firefox и Edge (Preview) разрешают процентные margin/padding
 
 Gridbugs курируется и создан [@rachelandrew](https://twitter.com/rachelandrew) под вдохновлением от замечательного [Flexbugs](https://github.com/philipwalton/flexbugs). <br><br>Автор данного перевода - [Владимир Гуменюк (Vladimir Humeniuk)](https://github.com/VladimirHumeniuk).
 
+## Другие языки
+
+> [Английский](https://github.com/rachelandrew/gridbugs)
+
 ## Содействие
 
 Прежде всего [создавая новую ошибку](https://github.com/rachelandrew/gridbugs/issues), прикрепляйте сокращенный пример кода и пути воспроизведения ошибки. Если вам известны обходные пути также опишите их.
