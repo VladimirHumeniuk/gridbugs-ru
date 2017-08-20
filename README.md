@@ -12,7 +12,7 @@
 
 ## Баги
 
-1. [`grid-auto-rows` и `grid-auto-columns` должен принимать список направляющих.](#1-grid-auto-rows-and-grid-auto-columns-should-accept-a-track-listing)
+1. [`grid-auto-rows` и `grid-auto-columns` должен принимать список направляющих.](#1grid-auto-rows-и-grid-auto-columns-должен принимать-список-направляющих)
 2. [Повторная нотация должна заново принимать список направляющих.](#2-repeat-notation-should-accept-a-track-listing)
 3. [Поддержка фрагментации.](#3-fragmentation-support)
 4. [Выравнивание элементов с собственными размерами в сетках с фиксированными направляющими.](#4-sizing-of-items-with-an-intrinsic-size-inside-fixed-size-tracks)
